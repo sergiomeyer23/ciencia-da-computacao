@@ -135,6 +135,12 @@ Curso | Conteúdos
 [Git e Github para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | Git; GitHub; Controle de versão.
 [Git e GitHub](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | Git; GitHub; Controle de versão.
 
+## Inglês para desenvolvedores
+
+A documentação técnica e a maior parte da literatura de programação estão em inglês. Este módulo opcional reúne livros de gramática, vocabulário técnico e leitura de referência, e pode ser feito em paralelo a qualquer etapa.
+
+Veja a bibliografia completa em [Inglês para Desenvolvedores](extras/bibliography/00_english_for_developers.md).
+
 # Currículo
 
 Você pode fazer os cursos na ordem, onde, e como preferir. Este é o maior benefício da liberdade. Entretanto, por fins didáticos e de organização, recomendamos que tente respeitar os pré-requisitos. Você perceberá que não cumprir com estes poderá criar obstáculos em sua jornada.
